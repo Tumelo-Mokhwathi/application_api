@@ -1,0 +1,91 @@
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\appsettings.json
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.exe
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.deps.json
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.runtimeconfig.json
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.runtimeconfig.dev.json
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\ref\application_api.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\application_api.pdb
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\CSharpFunctionalExtensions.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tumelo\Desktop\Project\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.csproj.AssemblyReference.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.AssemblyInfoInputs.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.AssemblyInfo.cs
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.csproj.CoreCompileInputs.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\staticwebassets\application_api.StaticWebAssets.Manifest.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\staticwebassets\application_api.StaticWebAssets.xml
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\scopedcss\bundle\application_api.styles.css
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.RazorTargetAssemblyInfo.cache
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.dll
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\ref\application_api.dll
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.pdb
+C:\Users\tumelo\Desktop\Project\application_api\obj\Debug\net5.0\application_api.genruntimeconfig.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\appsettings.json
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.exe
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.deps.json
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.runtimeconfig.json
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.runtimeconfig.dev.json
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\ref\application_api.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\application_api.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\CSharpFunctionalExtensions.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.csproj.AssemblyReference.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.AssemblyInfoInputs.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.AssemblyInfo.cs
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.csproj.CoreCompileInputs.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\staticwebassets\application_api.StaticWebAssets.Manifest.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\staticwebassets\application_api.StaticWebAssets.xml
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\scopedcss\bundle\application_api.styles.css
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.RazorTargetAssemblyInfo.cache
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.csproj.CopyComplete
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\ref\application_api.dll
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.pdb
+C:\Users\tumelo\Desktop\Tumelo Projects\AdaptIT\application_api\obj\Debug\net5.0\application_api.genruntimeconfig.cache
