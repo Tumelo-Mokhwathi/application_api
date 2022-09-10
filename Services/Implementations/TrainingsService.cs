@@ -27,10 +27,10 @@ namespace application_api.Services.Implementations
             var model = new Training()
             {
                 TrainingName = training.TrainingName,
-                TrainingDate = training.TrainingDate,
+                TrainingDate = ConvertDate(training.TrainingDate),
                 TrainingVenue = training.TrainingVenue,
                 NoOfSeatLeft = training.NoOfSeatLeft,
-                ClosingDate = training.ClosingDate,
+                ClosingDate = ConvertDate(training.ClosingDate),
                 TrainingCost = training.TrainingCost
             };
 
@@ -49,10 +49,10 @@ namespace application_api.Services.Implementations
             }
 
             model.TrainingName = training.TrainingName;
-            model.TrainingDate = training.TrainingDate;
+            model.TrainingDate = ConvertDate(training.TrainingDate);
             model.TrainingVenue = training.TrainingVenue;
             model.NoOfSeatLeft = training.NoOfSeatLeft;
-            model.ClosingDate = training.ClosingDate;
+            model.ClosingDate = ConvertDate(training.ClosingDate);
             model.TrainingCost = training.TrainingCost;
 
             _context.Trainings.Update(model);
@@ -73,6 +73,12 @@ namespace application_api.Services.Implementations
             await _context.SaveChangesAsync();
 
             return CSharpFunctionalExtensions.Result.Success(model);
+        }
+
+        private DateTime ConvertDate(DateTime date)
+        {
+            var newDate = date.ToUniversalTime();
+            return Convert.ToDateTime(newDate.ToString("o"));
         }
     }
 }
